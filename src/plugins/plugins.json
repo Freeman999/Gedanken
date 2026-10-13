@@ -92,7 +92,8 @@
       "order": 30
     },
     "dg-search": {
-      "order": 40
+      "order": 40,
+      "enabled": false
     },
     "dg-timestamps": {
       "order": 60
