@@ -8,7 +8,6 @@ Alphabetisch sortierte Sammlung aller Notizen, die veröffentlicht sind:
 - [[Arbeitsbelastung bei Lehrpersonen 2026 Teil 2\|Arbeitsbelastung bei Lehrpersonen 2026 Teil 2]]
 - [[Gedanken roh/Carl Sagan's Toolkit against Pseudoscience\|Carl Sagan's Toolkit against Pseudoscience]]
 - [[Diday (Digital Independence Day)\|Diday (Digital Independence Day)]]
-- [[Eigene Webseite\|Eigene Webseite]]
 - [[Eingang zum Garten\|Eingang zum Garten]]
 - [[Enshittification explained\|Enshittification explained]]
 - [[Farbe ist keine Veloinfrastruktur\|Farbe ist keine Veloinfrastruktur]]

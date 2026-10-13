@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Eingang zum Garten/","created":"2026-10-07T20:06:39.072+02:00","updated":"2026-10-13T21:01:36.018+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Eingang zum Garten/","tags":["gardenEntry"],"created":"2026-10-07T20:06:39.072+02:00","updated":"2026-10-13T21:04:04.107+02:00","dg-note-properties":{}}
 ---
 
 Guten Tag
