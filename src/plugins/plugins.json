@@ -80,7 +80,7 @@
         "themeModes": "auto",
         "buttonLabel": "Toggle light and dark mode"
       },
-      "order": 50
+      "order": 40
     },
     "dg-filetree": {
       "order": 10
@@ -92,7 +92,7 @@
       "order": 30
     },
     "dg-search": {
-      "order": 40,
+      "order": 50,
       "enabled": false
     },
     "dg-timestamps": {
