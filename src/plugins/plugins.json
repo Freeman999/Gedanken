@@ -83,7 +83,8 @@
       "order": 40
     },
     "dg-filetree": {
-      "order": 10
+      "order": 10,
+      "enabled": false
     },
     "dg-link-preview": {
       "order": 20
