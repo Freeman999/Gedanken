@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "plugins": {
+    "note-age-banner": {
+      "repo": "oleeskild/garden-plugin-note-age-banner",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-10-13T18:58:34.968Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/note-age-banner/README.md",
+        "src/plugins/note-age-banner/garden-plugin.json",
+        "src/plugins/note-age-banner/index.js",
+        "src/plugins/note-age-banner/styles/banner.scss",
+        "src/plugins/note-age-banner/templates/banner.njk"
+      ]
+    }
+  }
+}
